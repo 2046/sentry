@@ -1,0 +1,17 @@
+{
+  "name": "sentry",
+  "version": "0.0.1",
+  "description" : "前端日志统计",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2046/sentry.git"
+  },
+  "author": "寒飞紫",
+  "devDependencies": {
+    "browser-sync": "^2.9.11",
+    "gulp": "^3.9.0",
+    "gulp-load-plugins": "^1.0.0",
+    "gulp-uglify": "^1.4.2"
+  },
+  "license" : "MIT"
+}
